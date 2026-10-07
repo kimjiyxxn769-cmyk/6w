@@ -12,3 +12,15 @@
     <h6>제목 글자 태그 6</h6>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>HTML TEXT Basic Page</title>
+</head>
+<body> 
+    <a href="http://www.hanbit.co.kr">한빛미디어</a><br> 
+    <a href="http://www.naver.com/">네이버</a><br> 
+    <a href="http://www.daum.net/">다음</a><br>
+</body>
+</html>
